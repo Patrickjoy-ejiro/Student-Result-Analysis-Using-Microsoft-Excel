@@ -6,7 +6,7 @@
 ## Project Overview
 This project focuses on analyzing student academic performance using Microsoft Excel. The analysis transforms raw examination data into meaningful insights by evaluating overall performance, grade distribution, identifying students requiring academic support, and providing recommendations for improving future academic outcomes.
 
-## Objectives
+## Questions
 1. Calculate the overall student performance.
 2. Show how scores are distributed across grades.
 3. Show at least top students that did excellently and those that needs help (using chart) 
