@@ -1,19 +1,26 @@
 # Student Academic Performance Analysis Using Microsoft Excel
 
-<img width="980" height="980" alt="17825073329598657699310071366495" src="https://github.com/user-attachments/assets/fa53afe0-8c25-4dcb-8dd3-aa14e4a6078f" />
+<img width="980" height="980" alt="17825091634947618453030271880368" src="https://github.com/user-attachments/assets/83606a1d-53e5-4177-84f0-4d011c3ad44f" />
 
 
-## Project Overview
-This project focuses on analyzing student academic performance using Microsoft Excel. The analysis transforms raw examination data into meaningful insights by evaluating overall performance, grade distribution, identifying students requiring academic support, and providing recommendations for improving future academic outcomes.
+## Introduction
+
+This project analyzes student examination results using Microsoft Excel data analysis tools. The purpose is to evaluate overall student performance, understand grade distribution, identify students who require academic support, and provide recommendations for improving future academic outcomes.
+
+---
 
 ## Questions
-1. Calculate the overall student performance.
+
+1. Calculate the overall student   performance.
 2. Show how scores are distributed across grades.
-3. Show at least top students that did excellently and those that Needs Support (using chart) 
-4. Show the ranking/remark of each grade/students I'd. 
+3. Identify top-performing students and students needing support.
+4. Show ranking and remarks of each student.
 5. Provide data-driven recommendations to improve student performance.
-   
+
+---
+
 ## Tools Used
+
 - Microsoft Excel
 - Excel Formulas
 - Pivot Tables
@@ -24,13 +31,11 @@ This project focuses on analyzing student academic performance using Microsoft E
 
 ---
 
-# Analysis and Test Result Calculations
+# 1. Overall Student Performance
 
-## 1. Overall Student Performance
+## Performance Summary
 
-### Calculation Table
-
-| Performance Indicator | Excel Formula | Result |
+| Performance Indicator | Formula | Result |
 |---|---|---|
 | Total Students | =COUNTA(Student_ID) | 56 |
 | Class Average Score | =AVERAGE(Average) | 66.61% |
@@ -38,13 +43,14 @@ This project focuses on analyzing student academic performance using Microsoft E
 | Lowest Score | =MIN(Average) | 30.25% |
 
 ### Interpretation
-The overall class performance shows an average score of 66.61%. While some students achieved excellent results, some students recorded low scores and require improvement support.
+
+The overall class performance shows an average score of 66.61%. The result indicates a fair academic performance, although some students require additional academic support to improve their results.
 
 ---
 
-## 2. Grade Distribution Analysis
+# 2. Grade Distribution Analysis
 
-### Grade Calculation
+## Grade Summary Table
 
 | Grade | Score Range | Number of Students |
 |---|---|---|
@@ -54,36 +60,90 @@ The overall class performance shows an average score of 66.61%. While some stude
 | D | 50 - 59 | 6 |
 | F | Below 50 | 12 |
 
-### Excel Formula
+## Excel Formula
 
 ```excel
 =COUNTIF(Grade,"A")
-### 4. Student Ranking Calculation
+```
 
-| Student | Average Score | Rank |
-|---|---|---|
-| Student 1 | 97.17% | 1 |
-| Student 2 | 92.50% | 2 |
-| Student 3 | 90.00% | 3 |
+### Chart Used
 
-**Formula Used:**
+**Column Chart**
 
-`=RANK(Average_Score,Average_Range,0)`
-
+Purpose:
+- Shows the number of students in each grade category.
+- Helps compare performance levels.
 
 ---
 
-### 5. Recommendations
+# 3. Top Students and Students Needing Support
 
-- Provide extra lessons for students below 60%.
+## Top Performing Students
+
+| Student ID | Average Score | Grade | Remark |
+|---|---|---|---|
+| Student 1 | 97.17% | A | Excellent |
+| Student 2 | 92% | A | Excellent |
+| Student 3 | 90% | A | Excellent |
+
+## Students Needing Support
+
+| Student ID | Average Score | Grade | Remark |
+|---|---|---|---|
+| Student 10 | 45% | F | Needs Support |
+| Student 15 | 50% | D | Needs Support |
+| Student 20 | 55% | D | Needs Support |
+
+### Chart Used
+
+**Bar Chart**
+
+Purpose:
+- Compares excellent students and students requiring intervention.
+
+---
+
+# 4. Student Ranking and Remarks
+
+## Ranking Table
+
+| Student ID | Average Score | Rank | Remark |
+|---|---|---|---|
+| Student 1 | 97.17% | 1 | Excellent |
+| Student 2 | 92% | 2 | Excellent |
+| Student 3 | 90% | 3 | Excellent |
+
+## Rank Formula
+
+```excel
+=RANK(Average,Average_Range,0)
+```
+
+## Remark Formula
+
+```excel
+=IF(Average>=80,"Excellent",IF(Average>=60,"Good",IF(Average>=50,"Average","Needs Support")))
+```
+
+---
+
+# 5. Data-Driven Recommendations
+
+Based on the analysis:
+
+- Provide extra lessons for students scoring below 60%.
+- Organize revision classes and academic support programs.
+- Encourage peer learning and group study.
 - Monitor student progress through continuous assessment.
-- Encourage peer learning and revision practices.
-- Focus teaching efforts on weak subject areas.
-## Key Findings
-- Evaluated the overall class performance.
-- Identified students performing at different grade levels.
-- Highlighted students who need additional academic support.
-- Provided strategies for improving future examination results.
+- Identify weak subjects and improve teaching strategies.
+- Provide advanced learning activities for high-performing students.
 
-## Conclusion
-This project demonstrates how Excel can be used to transform student records into meaningful insights that support educational decision-making and improve academic performance.
+---
+
+# Conclusion
+
+This project demonstrates how Microsoft Excel can be used to analyze student academic results, visualize performance trends, identify learning gaps, and support educational decisions through data-driven insights. Also how Power Bi is used for a perfect Data Visualization. 
+
+I'm interested in collaborating with projcet that involves analysis.
+
+You can reach me with my email: ejirolink@gmail.com
