@@ -1,5 +1,8 @@
 # Student Academic Performance Analysis Using Microsoft Excel
 
+<p align="center">
+<img src="student-performance-analysis-logo.png" width="200"/>
+</p>
 
 ## Project Overview
 This project focuses on analyzing student academic performance using Microsoft Excel. The analysis transforms raw examination data into meaningful insights by evaluating overall performance, grade distribution, identifying students requiring academic support, and providing recommendations for improving future academic outcomes.
