@@ -68,7 +68,7 @@ The overall class performance shows an average score of 66.61%. The result indic
 
 ### Chart Used
 
-**Column Chart, Pie Chart, Line Chart**
+**Pie Chart**
 
 Purpose:
 - Shows the number of students in each grade category.
