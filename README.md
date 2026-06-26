@@ -1,6 +1,5 @@
 # Student Academic Performance Analysis Using Microsoft Excel
 
-https://chatgpt.com/s/m_6a3edfa9dd948191847909d9da076466
 
 ## Project Overview
 This project focuses on analyzing student academic performance using Microsoft Excel. The analysis transforms raw examination data into meaningful insights by evaluating overall performance, grade distribution, identifying students requiring academic support, and providing recommendations for improving future academic outcomes.
