@@ -9,7 +9,7 @@ This project focuses on analyzing student academic performance using Microsoft E
 ## Questions
 1. Calculate the overall student performance.
 2. Show how scores are distributed across grades.
-3. Show at least top students that did excellently and those that needs help (using chart) 
+3. Show at least top students that did excellently and those that Needs Support (using chart) 
 4. Show the ranking/remark of each grade/students I'd. 
 5. Provide data-driven recommendations to improve student performance.
    
