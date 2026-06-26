@@ -144,6 +144,6 @@ Based on the analysis:
 
 This project demonstrates how Microsoft Excel can be used to analyze student academic results, visualize performance trends, identify learning gaps, and support educational decisions through data-driven insights. Also how Power Bi is used for a perfect Data Visualization. 
 
-I'm interested in collaborating with projcet that involves analysis.
+I'm interested in collaborating with projects that involves analysis.
 
-You can reach me with my email: ejirolink@gmail.com
+You to reach me: ejirolink@gmail.com
