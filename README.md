@@ -20,6 +20,7 @@ This project focuses on analyzing student academic performance using Microsoft E
 - Charts
 - Slicers
 - Dashboard
+- Power Bi
 
 ---
 
