@@ -1,6 +1,6 @@
 # Student Academic Performance Analysis Using Microsoft Excel
 
-<img width="300" height="200" alt="17825091634947618453030271880368" src="https://github.com/user-attachments/assets/83606a1d-53e5-4177-84f0-4d011c3ad44f" />
+[<img width="300" height="200" alt="17825091634947618453030271880368" src="https://github.com/user-attachments/assets/83606a1d-53e5-4177-84f0-4d011c3ad44f" />](https://qorrectassess.com/en/blog/exam-result-analysis-report/)
 
 
 ## Introduction
