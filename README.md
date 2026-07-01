@@ -1,6 +1,6 @@
 # Student Academic Performance Analysis Using Microsoft Excel
 
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/59d9741d-6a93-4730-9d5e-5a08c21615be" />
+<img width="600" height="50" alt="image" src="https://github.com/user-attachments/assets/59d9741d-6a93-4730-9d5e-5a08c21615be" />
 
 
 ## Introduction
