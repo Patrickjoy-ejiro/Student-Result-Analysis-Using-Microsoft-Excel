@@ -146,4 +146,4 @@ This project demonstrates how Microsoft Excel can be used to analyze student aca
 
 I'm interested in collaborating with projects that involves analysis.
 
-You to reach me: ejirolink@gmail.com
+You can reach me: (ejirolink@gmail.com)
